@@ -41,7 +41,7 @@
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-000000?style=for-the-badge)&nbsp;
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white)&nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseudev96&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Eliseu-Espada" /></p>
 
