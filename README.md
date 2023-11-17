@@ -14,8 +14,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-Peço desculpas pela omissão. Aqui estão as habilidades relacionadas ao SQLite:
-
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
