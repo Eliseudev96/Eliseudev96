@@ -14,11 +14,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+Peço desculpas pela omissão. Aqui estão as habilidades relacionadas ao SQLite:
+
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -27,11 +33,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
- 
+
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)&nbsp;
@@ -41,7 +47,7 @@
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-000000?style=for-the-badge)&nbsp;
 
 ### Studying in this moment:
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseudev96&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Eliseu-Espada" /></p>
 
